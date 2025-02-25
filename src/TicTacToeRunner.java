@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+//main
 
 public class TicTacToeRunner {
+    public static void main(String[] args) {
+        new TicTacToeFrame();
+    }
 }
